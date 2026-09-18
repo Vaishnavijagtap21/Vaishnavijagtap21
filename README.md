@@ -72,9 +72,6 @@ I enjoy learning by **understanding how things work and turning that knowledge i
 <a href="https://www.w3.org/Style/CSS/">
 <img src="https://skillicons.dev/icons?i=css" width="52"/>
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://skillicons.dev/icons?i=javascript" width="52"/>
-</a>
 <a href="https://tailwindcss.com/">
 <img src="https://skillicons.dev/icons?i=tailwind" width="52"/>
 </a>
@@ -95,7 +92,7 @@ I enjoy learning by **understanding how things work and turning that knowledge i
 
 `MySQL` · `MongoDB`
 
-### Tools & Platforms
+### Tools
 
 <p align="center">
 <a href="https://git-scm.com/">
@@ -107,12 +104,9 @@ I enjoy learning by **understanding how things work and turning that knowledge i
 <a href="https://code.visualstudio.com/">
 <img src="https://skillicons.dev/icons?i=vscode" width="52"/>
 </a>
-<a href="https://www.docker.com/">
-<img src="https://skillicons.dev/icons?i=docker" width="52"/>
-</a>
 </p>
 
-`Git` · `GitHub` · `VS Code` · `Docker`
+`Git` · `GitHub` · `VS Code`
 
 </div>
 
