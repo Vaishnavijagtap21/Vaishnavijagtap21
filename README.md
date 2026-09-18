@@ -42,73 +42,30 @@ I enjoy learning by **understanding how things work and turning that knowledge i
 
 ## ⚒️ Tech Stack
 
-<div align="center">
+Tech Stack
+Languages
 
-### Languages
+<p align="left"> <a href="https://www.java.com/"> <img src="https://skillicons.dev/icons?i=java" width="52"/> </a> <a href="https://isocpp.org/"> <img src="https://skillicons.dev/icons?i=cpp" width="52"/> </a> <a href="https://www.c-language.org/"> <img src="https://skillicons.dev/icons?i=c" width="52"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://skillicons.dev/icons?i=javascript" width="52"/> </a> </p>
 
-<p align="center">
-<a href="https://www.java.com/">
-<img src="https://skillicons.dev/icons?i=java" width="52"/>
-</a>
-<a href="https://isocpp.org/">
-<img src="https://skillicons.dev/icons?i=cpp" width="52"/>
-</a>
-<a href="https://www.c-language.org/">
-<img src="https://skillicons.dev/icons?i=c" width="52"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://skillicons.dev/icons?i=javascript" width="52"/>
-</a>
-</p>
+Java · C · C++ · JavaScript · SQL
 
-`Java` · `C` · `C++` · `JavaScript` · `SQL`
+Frontend
 
-### Frontend
+<p align="left"> <a href="https://www.w3.org/html/"> <img src="https://skillicons.dev/icons?i=html" width="52"/> </a> <a href="https://www.w3.org/Style/CSS/"> <img src="https://skillicons.dev/icons?i=css" width="52"/> </a> <a href="https://tailwindcss.com/"> <img src="https://skillicons.dev/icons?i=tailwind" width="52"/> </a> </p>
 
-<p align="center">
-<a href="https://www.w3.org/html/">
-<img src="https://skillicons.dev/icons?i=html" width="52"/>
-</a>
-<a href="https://www.w3.org/Style/CSS/">
-<img src="https://skillicons.dev/icons?i=css" width="52"/>
-</a>
-<a href="https://tailwindcss.com/">
-<img src="https://skillicons.dev/icons?i=tailwind" width="52"/>
-</a>
-</p>
+HTML5 · CSS3 · JavaScript · Tailwind CSS
 
-`HTML5` · `CSS3` · `JavaScript` · `Tailwind CSS`
+Database
 
-### Database
+<p align="left"> <a href="https://www.mysql.com/"> <img src="https://skillicons.dev/icons?i=mysql" width="52"/> </a> <a href="https://www.mongodb.com/"> <img src="https://skillicons.dev/icons?i=mongodb" width="52"/> </a> </p>
 
-<p align="center">
-<a href="https://www.mysql.com/">
-<img src="https://skillicons.dev/icons?i=mysql" width="52"/>
-</a>
-<a href="https://www.mongodb.com/">
-<img src="https://skillicons.dev/icons?i=mongodb" width="52"/>
-</a>
-</p>
+MySQL · MongoDB
 
-`MySQL` · `MongoDB`
+Tools
 
-### Tools
+<p align="left"> <a href="https://git-scm.com/"> <img src="https://skillicons.dev/icons?i=git" width="52"/> </a> <a href="https://github.com/"> <img src="https://skillicons.dev/icons?i=github" width="52"/> </a> <a href="https://code.visualstudio.com/"> <img src="https://skillicons.dev/icons?i=vscode" width="52"/> </a> </p>
 
-<p align="center">
-<a href="https://git-scm.com/">
-<img src="https://skillicons.dev/icons?i=git" width="52"/>
-</a>
-<a href="https://github.com/">
-<img src="https://skillicons.dev/icons?i=github" width="52"/>
-</a>
-<a href="https://code.visualstudio.com/">
-<img src="https://skillicons.dev/icons?i=vscode" width="52"/>
-</a>
-</p>
-
-`Git` · `GitHub` · `VS Code`
-
-</div>
+Git · GitHub · VS Code
 
 ---
 
