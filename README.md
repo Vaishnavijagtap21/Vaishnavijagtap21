@@ -42,6 +42,8 @@ I enjoy learning by **understanding how things work and turning that knowledge i
 
 ## ⚒️ Tech Stack
 
+## ⚒️ Tech Stack
+
 ### 💻 Languages
 
 <p align="left">
@@ -57,18 +59,31 @@ I enjoy learning by **understanding how things work and turning that knowledge i
 <a href="https://www.python.org/">
 <img src="https://skillicons.dev/icons?i=python" width="52"/>
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://skillicons.dev/icons?i=javascript" width="52"/>
-</a>
 </p>
 
-`Java` · `C` · `C++` · `Python` · `JavaScript` 
+`Java` · `C` · `C++` · `Python`
 
 ### 🌐 Web & Development
 
-<p align="left"> <a href="https://www.w3.org/html/"> <img src="https://skillicons.dev/icons?i=html" width="52"/> </a> <a href="https://www.w3.org/Style/CSS/"> <img src="https://skillicons.dev/icons?i=css" width="52"/> </a> <a href="https://react.dev/"> <img src="https://skillicons.dev/icons?i=react" width="52"/> </a> <a href="https://tailwindcss.com/"> <img src="https://skillicons.dev/icons?i=tailwindcss" width="52"/> </a> </p>
+<p align="left">
+<a href="https://www.w3.org/html/">
+<img src="https://skillicons.dev/icons?i=html" width="52"/>
+</a>
+<a href="https://www.w3.org/Style/CSS/">
+<img src="https://skillicons.dev/icons?i=css" width="52"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=javascript" width="52"/>
+</a>
+<a href="https://react.dev/">
+<img src="https://skillicons.dev/icons?i=react" width="52"/>
+</a>
+<a href="https://tailwindcss.com/">
+<img src="https://skillicons.dev/icons?i=tailwindcss" width="52"/>
+</a>
+</p>
 
-HTML5 · CSS3 · React · JavaScript · Tailwind CSS
+`HTML5` · `CSS3` · `JavaScript` · `React` · `Tailwind CSS`
 
 ### 🗄️ Database
 
@@ -81,7 +96,7 @@ HTML5 · CSS3 · React · JavaScript · Tailwind CSS
 </a>
 </p>
 
-`MySQL` · `MongoDB`
+`MySQL` · `MongoDB` · `SQL`
 
 ### 🛠️ Tools
 
@@ -98,6 +113,7 @@ HTML5 · CSS3 · React · JavaScript · Tailwind CSS
 </p>
 
 `Git` · `GitHub` · `VS Code`
+
 
 
 
