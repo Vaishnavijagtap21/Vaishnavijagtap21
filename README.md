@@ -42,11 +42,9 @@ I enjoy learning by **understanding how things work and turning that knowledge i
 
 ## ⚒️ Tech Stack
 
-## ⚒️ Tech Stack
-
 ### 💻 Languages
 
-<p align="left">
+<p align="center">
 <a href="https://www.java.com/">
 <img src="https://skillicons.dev/icons?i=java" width="52"/>
 </a>
@@ -61,11 +59,13 @@ I enjoy learning by **understanding how things work and turning that knowledge i
 </a>
 </p>
 
+<p align="center">
 `Java` · `C` · `C++` · `Python`
+</p>
 
 ### 🌐 Web & Development
 
-<p align="left">
+<p align="center">
 <a href="https://www.w3.org/html/">
 <img src="https://skillicons.dev/icons?i=html" width="52"/>
 </a>
@@ -83,11 +83,13 @@ I enjoy learning by **understanding how things work and turning that knowledge i
 </a>
 </p>
 
+<p align="center">
 `HTML5` · `CSS3` · `JavaScript` · `React` · `Tailwind CSS`
+</p>
 
 ### 🗄️ Database
 
-<p align="left">
+<p align="center">
 <a href="https://www.mysql.com/">
 <img src="https://skillicons.dev/icons?i=mysql" width="52"/>
 </a>
@@ -96,11 +98,13 @@ I enjoy learning by **understanding how things work and turning that knowledge i
 </a>
 </p>
 
+<p align="center">
 `MySQL` · `MongoDB` · `SQL`
+</p>
 
 ### 🛠️ Tools
 
-<p align="left">
+<p align="center">
 <a href="https://git-scm.com/">
 <img src="https://skillicons.dev/icons?i=git" width="52"/>
 </a>
@@ -112,8 +116,9 @@ I enjoy learning by **understanding how things work and turning that knowledge i
 </a>
 </p>
 
+<p align="center">
 `Git` · `GitHub` · `VS Code`
-
+</p>
 
 
 
