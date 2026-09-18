@@ -4,13 +4,9 @@
 
 ### Computer Engineering Student · Java Developer · DSA Learner
 
-**Learning with curiosity. Building with purpose.**
-
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Java+Developer;DSA+Learner;Problem+Solver;Building+Practical+Projects" alt="Typing SVG"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Learning+with+curiosity.;Building+with+purpose.;Computer+Engineering+Student;Java+Developer+%7C+DSA+Learner;Software+Development+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=Learning+with+curiosity.+Building+with+purpose.;Learning+today.+Building+tomorrow.;Turning+ideas+into+practical+solutions.;Learning%2C+building%2C+solving%2C+and+growing+every+day.)](https://git.io/typing-svg)
 
 <br>
 <br>
