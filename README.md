@@ -99,7 +99,7 @@ I enjoy learning by **understanding how things work and turning that knowledge i
 </p>
 
 <p align="center">
-`MySQL` · `MongoDB` · `SQL`
+`MySQL` · `MongoDB` 
 </p>
 
 ### 🛠️ Tools
